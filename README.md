@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 1. Launch the application:
 ```bash
-python video_to_slides.py
+python clipper.py
 ```
 
 2. Select Input Options:
